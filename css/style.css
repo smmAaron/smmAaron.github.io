@@ -30,6 +30,7 @@ html {
 }
 
 body {
+     opacity: 0;
      color: #666666;
      font-size: 14px;
      font-family:Poppins;
